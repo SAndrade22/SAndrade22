@@ -1,73 +1,68 @@
-<img src="https://github.com/SAndrade22/SAndrade22/raw/main/banner.png" style="height: 100%; width: 100%">
-<h1 align="center">Hi 👋, I'm Juan Sebastian Andrade</h1>
-<h3 align="center">I'm a Computer Science Engineering student passionate about AI, web development, and creating impactful tech solutions.</h3>
+<img src="https://github.com/SAndrade22/SAndrade22/raw/main/banner_custom.png" style="height: 100%; width: 100%" alt="Banner personalizado de Juan Sebastian Andrade">
+<h1 align="center">Hello! I'm Juan Sebastian Andrade 🚀</h1>
+<h3 align="center">Passionate about creating solutions in Artificial Intelligence and Software Development for real-world impact 🌍</h3>
 
 ---
 
-- 🔭 I’m currently working on **Deep Learning Models for Text-to-Speech Conversion**
+🧑‍💻 **Who am I?**  
+A Computer Science Engineering student from Universidad Politécnica Salesiana, I’m always diving into new technologies and projects to push the limits of what’s possible. Whether it’s AI, full-stack web development, or robotics, my goal is to make technology work in harmony with our daily lives.
 
-- 🌱 I’m currently learning **Full-Stack Web Development** and **Machine Learning**
+### 🎓 Currently:
+- Completing my thesis on **Text-to-Speech conversion using Deep Learning** for the Volk robotic assistant.
+- Expanding my skill set in **Full-Stack Web Development**.
 
-- 📫 How to reach me **sebandrade2002@hotmail.com**
+### 💡 Notable Projects:
+1. **Parking Control System:**  
+   A full-stack web app to streamline parking lot management, built with **Spring Boot**, **PostgreSQL**, **Java**, and **JavaScript**.
+
+2. **Mobile Emotion Detector:**  
+   Achieved 90% accuracy in real-time emotion detection with **C++**, **Java**, and **OpenCV**, enhancing social applications with interactive insights.
+
+3. **AI Models for Medical Diagnosis:**  
+   Developed models for early detection of medical conditions like brain tumors and glaucoma using **Python** and machine learning, contributing to public health.
 
 ---
 
-<h1 align="center">TECHNOLOGY</h1>
-
+### 🛠️ Technologies & Tools I Use:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 3.5rem" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 3.5rem" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 3.5rem" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 3.5rem" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="height: 3.5rem" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="height: 3.5rem" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 3.5rem" alt="GitHub"/>
+  <!-- Añade más herramientas según tu preferencia -->
 </p>
 
 ---
 
-<h1 align="center">STATS</h1>
+<h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAndrade22" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAndrade22&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SAndrade22&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndrade22&layout=compact&theme=dark&hide=html&hide_border=true&card_width=330" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAndrade22&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SAndrade22&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
 
-<h1 align="center">PROJECTS</h1>
+<h2 align="center">Projects & Contributions</h2>
 
-<h4>1. Parking Control System</h4>
-<a href="https://github.com/SAndrade22/Parking-Control-System" target="blank">
-  <img src="https://github.com/SAndrade22/SAndrade22/raw/main/parking_control.png" style="width: 100%; max-width: 300px;">
-</a>
+<p>Here’s a taste of some projects I’ve built:</p>
 
-<h4>2. Mobile Emotion Detector</h4>
-<a href="https://github.com/SAndrade22/Emotion-Detector" target="blank">
-  <img src="https://github.com/SAndrade22/SAndrade22/raw/main/emotion_detector.png" style="width: 100%; max-width: 300px;">
-</a>
+- [Parking Control System](https://github.com/SAndrade22/Parking-Control-System): A scalable system for parking management.
+- [Mobile Emotion Detector](https://github.com/SAndrade22/Emotion-Detector): A mobile application for emotion recognition.
+- [AI for Medical Diagnosis](https://github.com/SAndrade22/Medical-AI): Machine learning models for health diagnostics.
 
 ---
 
-<h1 align="center">SOCIAL</h1>
+<h2 align="center">Connect with Me</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/juan-sebastian-andrade" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/></a>
-  <a href="https://codepen.io/YOUR_CODEPEN" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem"></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-sebastian-andrade" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 2.5rem"/></a>
+  <a href="https://github.com/SAndrade22" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 2.5rem"/></a>
+</p>
 
 ---
 
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
-
----
+<h4 align="center">Crafted with dedication and a love for technology 🌟</h4>
