@@ -14,7 +14,7 @@ A Computer Science Engineering student from Universidad Politécnica Salesiana, 
 - Completing my thesis on **Text-to-Speech conversion using Deep Learning** for the Volk robotic assistant.
 - Expanding my skill set in **Full-Stack Web Development**.
 
-### 💡 Notable Projects:
+### 💡 Notable Experience:
 1. **Parking Control System:**  
    A full-stack web app to streamline parking lot management, built with **Spring Boot**, **PostgreSQL**, **Java**, and **JavaScript**.
 
@@ -60,20 +60,10 @@ A Computer Science Engineering student from Universidad Politécnica Salesiana, 
 
 ---
 
-<h2 align="center">Projects & Contributions</h2>
-
-<p>Here’s a taste of some projects I’ve built:</p>
-
-- [Parking Control System](https://github.com/SAndrade22/Parking-Control-System): A scalable system for parking management.
-- [Mobile Emotion Detector](https://github.com/SAndrade22/Emotion-Detector): A mobile application for emotion recognition.
-- [AI for Medical Diagnosis](https://github.com/SAndrade22/Medical-AI): Machine learning models for health diagnostics.
-
----
-
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-sebastian-andrade" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 30px; height: 30px; margin: 5px;" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sebastian-andrade-4b7b22307/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 30px; height: 30px; margin: 5px;" alt="LinkedIn"/></a>
 </p>
 
 ---
