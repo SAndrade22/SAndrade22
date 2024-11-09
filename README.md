@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" style="height: 200px; width: auto;" alt="Joy GIF">
-</div>
-
+<img src="https://github.com/SAndrade22/SAndrade22/raw/main/assets/banner.png" style="height: 100%; width: 100%" alt="Banner personalizado de Juan Sebastian Andrade">
 <h1 align="center">Hello! I'm Juan Sebastian Andrade 🚀</h1>
 <h3 align="center">Passionate about creating solutions in Artificial Intelligence and Software Development for real-world impact 🌍</h3>
 
@@ -28,13 +25,13 @@ A Computer Science Engineering student from Universidad Politécnica Salesiana, 
 
 ### 🛠️ Technologies & Tools I Use:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 2.5rem" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 2.5rem" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 2.5rem" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 2.5rem" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="height: 2.5rem" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="height: 2.5rem" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 2.5rem" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 1.8rem; margin: 5px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 1.8rem; margin: 5px;" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 1.8rem; margin: 5px;" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 1.8rem; margin: 5px;" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="height: 1.8rem; margin: 5px;" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="height: 1.8rem; margin: 5px;" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 1.8rem; margin: 5px;" alt="GitHub"/>
 </p>
 
 ---
@@ -61,8 +58,8 @@ A Computer Science Engineering student from Universidad Politécnica Salesiana, 
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-sebastian-andrade" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 2.5rem"/></a>
-  <a href="https://github.com/SAndrade22" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 2.5rem"/></a>
+  <a href="https://www.linkedin.com/in/juan-sebastian-andrade" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 2.5rem; margin: 5px;" alt="LinkedIn"/></a>
+  <a href="https://github.com/SAndrade22" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 2.5rem; margin: 5px;" alt="GitHub"/></a>
 </p>
 
 ---
