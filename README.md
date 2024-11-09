@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" style="height: 200px; width: auto;" alt="Joy GIF">
+  <img src="https://imgmedia.larepublica.pe/640x371/larepublica/migration/images/BLC66CRJXJGMDIVYSS6UNRY7OA.webp" style="height: 200px; width: auto;" alt="Joy GIF">
 </div>
 
 <h1 align="center">Hello! I'm Juan Sebastian Andrade 🚀</h1>
