@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgmedia.larepublica.pe/640x371/larepublica/migration/images/BLC66CRJXJGMDIVYSS6UNRY7OA.webp" style="height: 200px; width: auto;" alt="Joy GIF">
+  <img src="https://imgmedia.larepublica.pe/640x371/larepublica/migration/images/BLC66CRJXJGMDIVYSS6UNRY7OA.webp" style="height: 250px; width: auto;" alt="Joy GIF">
 </div>
 
 <h1 align="center">Hello! I'm Juan Sebastian Andrade 🚀</h1>
@@ -47,6 +47,7 @@ A Computer Science Engineering student from Universidad Politécnica Salesiana, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="width: 30px; height: 30px; margin: 5px;" alt="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="width: 30px; height: 30px; margin: 5px;" alt="OpenCV"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="width: 30px; height: 30px; margin: 5px;" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 30px; height: 30px; margin: 5px;" alt="Docker"/>
 </p>
 
 ---
