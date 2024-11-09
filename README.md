@@ -1,4 +1,7 @@
-<img src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" style="height: 200px; width: auto;" alt="Joy GIF">
+<div align="center">
+  <img src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" style="height: 200px; width: auto;" alt="Joy GIF">
+</div>
+
 <h1 align="center">Hello! I'm Juan Sebastian Andrade 🚀</h1>
 <h3 align="center">Passionate about creating solutions in Artificial Intelligence and Software Development for real-world impact 🌍</h3>
 
