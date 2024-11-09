@@ -1,6 +1,7 @@
-<img src="https://github.com/SAndrade22/SAndrade22/raw/main/banner_custom.png" style="height: 100%; width: 100%" alt="Banner personalizado de Juan Sebastian Andrade">
+<img src="https://github.com/SAndrade22/SAndrade22/raw/main/assets/banner.png" style="height: 100%; width: 100%" alt="Banner personalizado de Juan Sebastian Andrade">
 <h1 align="center">Hello! I'm Juan Sebastian Andrade 🚀</h1>
 <h3 align="center">Passionate about creating solutions in Artificial Intelligence and Software Development for real-world impact 🌍</h3>
+
 
 ---
 
