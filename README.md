@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sifo.comillas.edu/pluginfile.php/3645611/course/overviewfiles/327b2bd5e15f14babee855b74ee4549b.gif" style="height: 350px; width: auto;" alt="Joy GIF">
+  <img src="https://sifo.comillas.edu/pluginfile.php/3645611/course/overviewfiles/327b2bd5e15f14babee855b74ee4549b.gif" style="height: 200px; width: auto;" alt="Joy GIF">
 </div>
 
 <h1 align="center">Hello! I'm Juan Sebastian Andrade 🚀</h1>
